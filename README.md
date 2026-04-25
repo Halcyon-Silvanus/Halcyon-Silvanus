@@ -16,6 +16,7 @@
   <br>
   <br>
   Personal homepage: <a href="https://Halcyon-Silvanus.github.io/">Halcyon-Silvanus.github.io/</a>
+  <br>
   🎓 Undergraduate student at China University of Mining and Technology
   <br>
   📚 Major in Data Science and Big Data Technology | CS & AI Direction
