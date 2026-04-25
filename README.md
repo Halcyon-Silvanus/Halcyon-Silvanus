@@ -38,21 +38,14 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halcyon-silvanus&show_icons=true&locale=en&layout=compact" alt="halcyon-silvanus" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=halcyon-silvanus&show_icons=true&locale=en" alt="halcyon-silvanus" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=halcyon-silvanus&" alt="halcyon-silvanus" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halcyon-silvanus&show_icons=true&locale=en&layout=compact" alt="halcyon-silvanus" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halcyon-silvanus&theme=default" alt="halcyon-silvanus" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halcyon-silvanus&show_icons=true&locale=en&layout=compact" alt="halcyon-silvanus" />
 </p>
